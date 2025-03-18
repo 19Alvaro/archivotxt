@@ -1,2 +1,2 @@
 
-los comandos de git init es para inicar un cambio
+los comandos de git init es para inicar un cambio add
