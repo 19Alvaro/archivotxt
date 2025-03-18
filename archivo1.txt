@@ -1,2 +1,16 @@
 Hola me llamo alonso
 Me gustan las computadoras difruto mucho
+
+
+git add nombre_del_archivo
+
+git commit -m "Descripción de los cambios"
+
+
+git push origin main
+
+
+
+
+
+
