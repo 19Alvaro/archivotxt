@@ -1,0 +1,16 @@
+para saltar a la rama original
+
+git checkout main
+
+realizamos los cambio o creamos nuevos archivos
+
+touch archivo4.txt  en este caso vamos a crear un nuevo archivo
+
+luego el poder de add + commit
+
+git .
+git commit -m "Nuevos comandos"
+
+y el final maestro
+git push origin main
+
