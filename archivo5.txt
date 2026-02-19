@@ -1,0 +1,8 @@
+Si acabamos de crear un commit pero me di cuenta de que ecribi al go mal o se me olvido 
+una linea utilizamos el codigo
+
+git commit --amend -m "Mensaje corregido"
+
+en lugar que crear un nuevo commit remendamos el ultimo que se hizo
+
+

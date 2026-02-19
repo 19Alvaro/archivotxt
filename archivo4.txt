@@ -17,3 +17,5 @@ guardar y registar
 preparamos el archivo git add .
 
 confirmamos el cambio git commit -m "Aqui esta un nuevo archivo"
+
+simplemente soy todo "Linux"
