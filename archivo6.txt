@@ -1,0 +1,15 @@
+para mandar unnarchivo de una rama a otra en este caso vamos a mandar un
+archivo de reposi a main por lo tanto nos aseguramos de estar en main
+
+git checkout main
+
+y usamos el siguiente comando
+
+git checkout reposi -- archivo5.txt
+
+guardamos los cambios
+
+git add archivo6.txt
+git commit -m "Archivo nuevo creado en la rama reposi"
+git push origin main
+
