@@ -1,6 +1,6 @@
 Hola me llamo alonso
 Me gustan las computadoras difruto mucho
-
+soy un fanatico de linux simplemente lo amo 
 
 git add nombre_del_archivo
 
